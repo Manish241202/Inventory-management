@@ -1,5 +1,7 @@
 GUI Inventory Management System
+
 Project Overview
+
 This project is a comprehensive GUI Inventory Management System developed using Python. The system provides a user-friendly interface for managing various aspects of inventory including employees, suppliers, categories, and products. The application features a well-organized dashboard and separate sections for efficient data handling and visualization.
 
 Features
